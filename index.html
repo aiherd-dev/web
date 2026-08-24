@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- The static host can't send headers, and the whole point of §11.8 is
+         that no third party gets to run code in this page. wasm-unsafe-eval is
+         what instantiating the OHTTP module needs under any script-src. -->
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="script-src 'self' 'wasm-unsafe-eval'"
+    />
+    <title>aiherd</title>
+    <script type="module" crossorigin src="/assets/index-DkJYh4f8.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-ClBcTQpK.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
