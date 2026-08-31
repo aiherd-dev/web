@@ -1,5 +1,5 @@
 {
-  "notice": "{\"latest\":\"0.4.28\",\"text\":\"\",\"url\":\"https://aiherd.dev\"}",
-  "seq": 1,
-  "sig": "313378fe30bb858c90cb69abad7509c11a7da81465d6759524c7d0580f0d22aa5ab57d78da9f902529438c84291c8bb2b28e408d523ee5f05e44af0c4c09ae0a"
+  "notice": "{\"android\":821,\"ios\":821,\"latest\":\"0.4.28\",\"text\":\"\",\"url\":\"https://aiherd.dev\"}",
+  "seq": 2,
+  "sig": "1428555089f98ce5eb268e85d23a5addf1018aad4c59e49388c549a628a659acb25246414d0757852047bf302c350ee83f5df51699cc1ebff45c1f67f308ac08"
 }
